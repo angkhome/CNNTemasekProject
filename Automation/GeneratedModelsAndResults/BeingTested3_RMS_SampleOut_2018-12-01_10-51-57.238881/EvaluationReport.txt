@@ -1,0 +1,16 @@
+
+File: 9_Layer3_E40_B128_F32_K33.py	Accuracy : 0.7353	Loss : 0.763677843284607	Training Time(S) : 396.936655
+File: 8_Layer3_E30_B128_F32_K33.py	Accuracy : 0.716	Loss : 0.8319630004882812	Training Time(S) : 299.512955
+File: 3_Layer3_E40_B64_F32_K33.py	Accuracy : 0.7647	Loss : 0.6865806820869446	Training Time(S) : 535.342248
+File: 9_Layer3_E40_B128_F32_K33.py	Accuracy : 0.7444	Loss : 0.7435942309379577	Training Time(S) : 432.481084
+File: 8_Layer3_E30_B128_F32_K33.py	Accuracy : 0.6917	Loss : 0.8849355219841003	Training Time(S) : 328.720029
+File: 3_Layer3_E40_B64_F32_K33.py	Accuracy : 0.7495	Loss : 0.7349677387714386	Training Time(S) : 548.740339
+File: 11_Layer3_E30_B128_F64_K55.py	Accuracy : 0.7517	Loss : 0.7179179048538208	Training Time(S) : 503.121782
+File: 5_Layer3_E30_B64_F64_K55.py	Accuracy : 0.7639	Loss : 0.7016484470367431	Training Time(S) : 608.483519
+File: 6_Layer3_E40_B64_F64_K55.py	Accuracy : 0.7825	Loss : 0.631719314289093	Training Time(S) : 812.119521
+File: 2_Layer3_E30_B64_F32_K33.py	Accuracy : 0.7445	Loss : 0.7423719034194947	Training Time(S) : 409.206877
+File: 10_Layer3_E20_B128_F64_K55.py	Accuracy : 0.6793	Loss : 0.903083342552185	Training Time(S) : 333.983289
+File: 7_Layer3_E20_B128_F32_K33.py	Accuracy : 0.6465	Loss : 1.0127079502105714	Training Time(S) : 216.268663
+File: 1_Layer3_E20_B64_F32_K33.py	Accuracy : 0.7138	Loss : 0.8253153164863587	Training Time(S) : 282.090322
+File: 12_Layer3_E40_B128_F64_K55.py	Accuracy : 0.7608	Loss : 0.6928789302825927	Training Time(S) : 668.530431
+File: 4_Layer3_E20_B64_F64_K55.py	Accuracy : 0.7377	Loss : 0.7567512104034424	Training Time(S) : 406.176582
